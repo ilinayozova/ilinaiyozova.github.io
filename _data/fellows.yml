@@ -1,12 +1,12 @@
-- name: Will
+- name: Teaching
   img: logo.jpg
   location: London, UK
 
-- name: Amanda
+- name: Presentations
   img: amanda.jpg
   location: New York City, USA
 
-- name: Aaron
+- name: Talks
   img: aaron.jpg
   location: London, UK
 
