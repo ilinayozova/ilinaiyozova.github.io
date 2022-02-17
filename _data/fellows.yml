@@ -3,13 +3,10 @@
   location: London, UK
 
 - name: Presentations
-  img: amanda.jpg
   location: New York City, USA
 
 - name: Talks
-  img: aaron.jpg
   location: London, UK
 
 - name: Swift
-  img: swift.jpg
   location: New York City, USA
